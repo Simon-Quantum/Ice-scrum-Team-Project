@@ -7,9 +7,9 @@ We are currently in the process of building our website using WordPress.org. We 
 Initialization stage:
 I will 
 1. create an aws sever free tier to request a server, since it is required to install wordpress.org.
-2. then install wordpress.org accordingly
-3. write a simple guide(as I am also a beginner)of using JPA and configurating enviroment for spring boot with intellij IDEA IDE.
-4. Setup pom.xml for project build depedencies through Maven.
+2. then install wordpress.org accordingly (https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
+3. write a simple guide(as I am also a beginner) of using JPA and configurating an environment for spring boot with intellij IDEA IDE.
+4. Set up pom.xml for project build dependencies through Maven.
 5. 
 
 
