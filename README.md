@@ -8,9 +8,10 @@ Initialization stage:
 I will 
 1. create an aws sever free tier to request a server, since it is required to install wordpress.org.
 2. then install wordpress.org accordingly (https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
-3. write a simple guide(as I am also a beginner) of using JPA and configurating an environment for spring boot with intellij IDEA IDE.
-4. Set up pom.xml for project build dependencies through Maven.
-5. 
+3. install wordpress to aws EC2 instance (https://docs.aws.amazon.com/codedeploy/latest/userguide/tutorials-wordpress.html)
+4. write a simple guide(as I am also a beginner) of using JPA and configurating an environment for spring boot with intellij IDEA IDE.
+5. Set up pom.xml for project build dependencies through Maven.
+6. 
 
 
 Implementation stage:
